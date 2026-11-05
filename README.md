@@ -40,7 +40,7 @@ I'm a backend engineer who likes systems that keep working when things go wrong:
 - **AI audio analytics:** built a pipeline for in-store customer conversations on open-source models (Whisper, speaker diarization) that kept the conversation context and **cut Gemini API cost by 70%**.
 
 ### Software Engineer Intern — AlgoUniversity · May 2025 – Jul 2025
-- Built **Roy's Code**, a full-stack online judge: sandboxed execution against hidden test suites with **sub-2 s verdicts**, deployed on AWS EC2 with an AI debugging agent. ([live](https://royscode.onrender.com/) · [repo](https://github.com/codedchaitanya/AlgoDev))
+- Built **Roy's Code**, a full-stack online judge: sandboxed execution against hidden test suites with **sub-2 s verdicts**, deployed on AWS EC2 with an AI debugging agent. ([live](https://royscode-chaitanya.vercel.app/) · [repo](https://github.com/codedchaitanya/AlgoDev))
 
 ---
 
@@ -82,7 +82,7 @@ A legal assistant for Indian law: Qwen2.5-7B in 4-bit with **12 domain-specific 
 <td width="50%" valign="top">
 
 ### 🧑‍⚖️ [Roy's Code — Online Judge](https://github.com/codedchaitanya/AlgoDev)
-**Competitive-programming platform** · [live site](https://royscode.onrender.com/) · [demo video](https://drive.google.com/drive/folders/1wSndazeoIzb_UPJDNI1fZTUCWGoY-n-S)
+**Competitive-programming platform** · [live site](https://royscode-chaitanya.vercel.app/) · [demo video](https://drive.google.com/drive/folders/1wSndazeoIzb_UPJDNI1fZTUCWGoY-n-S)
 
 Problems by topic and difficulty, code execution in isolated Docker sandboxes against hidden test cases, verdicts in under 2 seconds, leaderboard, and an AI agent that explains why a submission failed.
 
