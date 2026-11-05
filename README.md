@@ -40,7 +40,7 @@ I'm a backend engineer who likes systems that keep working when things go wrong:
 - **AI audio analytics:** built a pipeline for in-store customer conversations on open-source models (Whisper, speaker diarization) that kept the conversation context and **cut Gemini API cost by 70%**.
 
 ### Software Engineer Intern — AlgoUniversity · May 2025 – Jul 2025
-- Built **Roy's Code**, a full-stack online judge: sandboxed execution against hidden test suites with **sub-2 s verdicts**, deployed on AWS EC2 with an AI debugging agent. ([repo](https://github.com/codedchaitanya/AlgoDev))
+- Built **Roy's Code**, a full-stack online judge: sandboxed execution against hidden test suites with **sub-2 s verdicts**, deployed on AWS EC2 with an AI debugging agent. ([live](https://royscode.onrender.com/) · [repo](https://github.com/codedchaitanya/AlgoDev))
 
 ---
 
@@ -82,7 +82,7 @@ A legal assistant for Indian law: Qwen2.5-7B in 4-bit with **12 domain-specific 
 <td width="50%" valign="top">
 
 ### 🧑‍⚖️ [Roy's Code — Online Judge](https://github.com/codedchaitanya/AlgoDev)
-**Competitive-programming platform** · [demo video](https://drive.google.com/drive/folders/1wSndazeoIzb_UPJDNI1fZTUCWGoY-n-S)
+**Competitive-programming platform** · [live site](https://royscode.onrender.com/) · [demo video](https://drive.google.com/drive/folders/1wSndazeoIzb_UPJDNI1fZTUCWGoY-n-S)
 
 Problems by topic and difficulty, code execution in isolated Docker sandboxes against hidden test cases, verdicts in under 2 seconds, leaderboard, and an AI agent that explains why a submission failed.
 
@@ -134,7 +134,7 @@ On-call schedules, automatic routing of incidents to the responder on call, ackn
 | [Aura AI](https://github.com/codedchaitanya/Aura_AI) | Security gateway that screens inputs to an AI model for adversarial attacks before they reach it | Python |
 | [Boostly](https://github.com/codedchaitanya/Chaitanya-Roy-2K22MC41) | Student recognition platform: send credits with a message, leaderboard, admin panel | Django |
 | [Vehicle Detection & Counting](https://github.com/codedchaitanya/Vehicle_dectection_and_counting) | Detects, tracks and counts cars, bikes, buses and trucks crossing lines in traffic video | Python, YOLOv8 |
-| [Eco-Track](https://github.com/codedchaitanya/Eco-Track) | ESG analytics: data cleaning, EDA and a dashboard for company ESG scores, resource use and industry comparison | Python, pandas, Plotly Dash |
+| [Eco-Track](https://github.com/codedchaitanya/Eco-Track) | ESG analytics: data cleaning, EDA and a dashboard for company ESG scores, resource use and industry comparison · [**live dashboard**](https://ecotrack-chaitanya.vercel.app/) | Python, pandas, Plotly Dash |
 | [E-commerce Website](https://github.com/codedchaitanya/Ecommerce-Website) | Full-stack store with sign-up, product pages and payments | Node.js, Express, MongoDB, EJS |
 | [ArUco Pose Estimation](https://github.com/codedchaitanya/aruco-marker-detection-and-pose-estimation) | Camera calibration, ArUco marker detection and 6-DoF pose estimation | Python, OpenCV |
 | [Image Mosaicing](https://github.com/codedchaitanya/uas-first-project) | Stitches overlapping images into one seamless panorama | Python, OpenCV |
