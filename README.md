@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="chaitanya.png" width="160" alt="Chaitanya Roy"/>
-</p>
-
 <h1 align="center">Chaitanya Roy</h1>
 
 <p align="center">
