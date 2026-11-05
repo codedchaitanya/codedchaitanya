@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chaitanya-roy-a8b756257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:chaitanyaroy2004@gmail.com"><img src="https://img.shields.io/badge/Email-chaitanyaroy2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:chaitanyamce41@gmail.com"><img src="https://img.shields.io/badge/Email-chaitanyamce41@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/u/sam13299work/"><img src="https://img.shields.io/badge/LeetCode-1901_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.codechef.com/users/long_seren_98"><img src="https://img.shields.io/badge/CodeChef-1552-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
   <a href="https://codeforces.com/profile/vengeance_04"><img src="https://img.shields.io/badge/Codeforces-vengeance__04-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
@@ -248,6 +248,6 @@ Coursework: data structures, DBMS, operating systems, system design, computer ne
 
 <p align="center">
   <b>Hiring for backend, platform, full-stack or applied-AI engineering?</b><br/>
-  <a href="mailto:chaitanyaroy2004@gmail.com">chaitanyaroy2004@gmail.com</a> ·
+  <a href="mailto:chaitanyamce41@gmail.com">chaitanyamce41@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/chaitanya-roy-a8b756257/">LinkedIn</a>
 </p>
